@@ -9,7 +9,5 @@ def add(a: float, b: float) -> float:
             b: float type.
         Return:
             sum as a float type.
-
-            """
-
-        return (a + b)
+    """
+    return a + b
